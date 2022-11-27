@@ -29,7 +29,7 @@ Bildiğim Diller; HTML,CSS,JAVASCRİPT <br>
 I am studying in "Özel Dinamik Okulları"<sup>Electrical-Electronic Software</sup> <br>
 Languages I Know; HTML,CSS,JAVASCRİPT <br>
 <a href="https://discord.com/users/722523001823690873" target="_blank"> Discord Account </a> <br>
-<a href="https://www.instagram.com/egehan.kontas55/" target="_blank"> İnstagram Account </a> <br>
+<a href="https://www.instagram.com/egehan.kontas55/" target="_blank"> Instagram Account </a> <br>
 <a href="https://stackoverflow.com/users/18989055/egehan" target="_blank"> StackOverflow Account </a> <br>
 <a href="https://www.linkedin.com/mwlite/in/egehan-kontas-a91986250" target="_blank"> LinkedIn Account </a> <br>
 <a href="https://twitter.com/KontasEgehan" target="_blank"> Twitter Account </a> <br>
