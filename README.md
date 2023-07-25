@@ -1,5 +1,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/722523001823690873)](https://discord.com/users/722523001823690873)
-![](https://komarev.com/ghpvc/?username=egehan0250)
+
 # 💫 About Me:
 Selam, Ben Egehan
 
