@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on **SearchGlobal**
+- 🔭 I’m currently working on **[AIuptime](https://aiuptime.net)**
 
 - 🌱 I’m currently learning **Frameworks**
 
