@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Backend developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on **[AIuptime](https://aiuptime.net)**
+- 🔭 I’m currently working on **[AIuptime](https://aiuptime.net), [The Nova Store](https://thenovastore.com.tr)**
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/egehan0250?tab=repositories](https://github.com/egehan0250?tab=repositories)
 
-- 💬 Ask me about **NodeJS, C++, MongoDB**
+- 💬 Ask me about **NodeJS, C++, React, MongoDB,**
 
 - 📫 How to reach me **egehankontas55@gmail.com**
 
