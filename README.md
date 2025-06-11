@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Turkey</h3>
 
 
-- 🔭 I’m currently working on **[AIuptime](https://aiuptime.net), [The Nova Store](https://thenovastore.com.tr)**
+- 🔭 I’m currently working on **[FOVENTRA](https://foventra.com)**
 
 - 🌱 I’m currently learning **Frameworks**
 
